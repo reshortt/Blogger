@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Blogger</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_post">Add Post</string>
+    <string name="describe_this_photo">Description...</string>
+    <string name="photo_title">Title...</string>
+    <string name="post">Post</string>
+    <string name="post_title_goes_here">Post title goes here</string>
+    <string name="post_description_goes_here">Post description goes here</string>
+</resources>
